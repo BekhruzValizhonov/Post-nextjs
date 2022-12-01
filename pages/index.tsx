@@ -12,7 +12,6 @@ import VisibilityOff from "@mui/icons-material/VisibilityOff";
 import { Button } from "@mui/material";
 import { useRouter } from "next/router";
 import Head from "next/head";
-import icon from "../public/images.png";
 import style from "../styles/main.module.css";
 
 interface State {
