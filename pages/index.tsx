@@ -62,6 +62,7 @@ const Login: React.FC = () => {
           width: 500,
           maxWidth: "100%",
           margin: "auto",
+          bgcolor: "red",
         }}
       >
         <Card
